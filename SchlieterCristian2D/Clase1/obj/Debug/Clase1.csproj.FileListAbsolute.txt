@@ -1,0 +1,21 @@
+D:\VisualStudio\Schlieter\Clase1\Clase1\bin\Debug\Clase1.exe.config
+D:\VisualStudio\Schlieter\Clase1\Clase1\bin\Debug\Clase1.exe
+D:\VisualStudio\Schlieter\Clase1\Clase1\bin\Debug\Clase1.pdb
+D:\VisualStudio\Schlieter\Clase1\Clase1\obj\Debug\Clase1.csprojAssemblyReference.cache
+D:\VisualStudio\Schlieter\Clase1\Clase1\obj\Debug\Clase1.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Schlieter\Clase1\Clase1\obj\Debug\Clase1.exe
+D:\VisualStudio\Schlieter\Clase1\Clase1\obj\Debug\Clase1.pdb
+E:\Schlieter\Clase1\Clase1\bin\Debug\Clase1.exe.config
+E:\Schlieter\Clase1\Clase1\bin\Debug\Clase1.exe
+E:\Schlieter\Clase1\Clase1\bin\Debug\Clase1.pdb
+E:\Schlieter\Clase1\Clase1\obj\Debug\Clase1.csprojAssemblyReference.cache
+E:\Schlieter\Clase1\Clase1\obj\Debug\Clase1.csproj.CoreCompileInputs.cache
+E:\Schlieter\Clase1\Clase1\obj\Debug\Clase1.exe
+E:\Schlieter\Clase1\Clase1\obj\Debug\Clase1.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\SchlieterCristian2D\Clase1\bin\Debug\Clase1.exe.config
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\SchlieterCristian2D\Clase1\bin\Debug\Clase1.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\SchlieterCristian2D\Clase1\bin\Debug\Clase1.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\SchlieterCristian2D\Clase1\obj\Debug\Clase1.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\SchlieterCristian2D\Clase1\obj\Debug\Clase1.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\SchlieterCristian2D\Clase1\obj\Debug\Clase1.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\SchlieterCristian2D\Clase1\obj\Debug\Clase1.pdb

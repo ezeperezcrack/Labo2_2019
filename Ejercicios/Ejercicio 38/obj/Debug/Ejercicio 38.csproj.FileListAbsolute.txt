@@ -1,0 +1,7 @@
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 38\bin\Debug\Ejercicio 38.exe.config
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 38\bin\Debug\Ejercicio 38.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 38\bin\Debug\Ejercicio 38.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 38\obj\Debug\Ejercicio 38.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 38\obj\Debug\Ejercicio 38.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 38\obj\Debug\Ejercicio 38.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 38\obj\Debug\Ejercicio 38.pdb

@@ -1,0 +1,20 @@
+federicordavila@gmail.com
+
+github.com/FedeDavila1984/utn_prog_y_lab_II
+
+TP1 15 de abril 10 am
+TP2 20 de mayo  10 am
+TP3 10 de junio 10 am
+TP4 24 de junio 10 am
+
+
+
+git clone ------> para clonar un repo en la maquina.
+git status
+git add *
+git status
+git commit -m "commit"
+git status
+git push origin master
+
+git pull ---------> para actualizar la carpeta con lo nuevo del git

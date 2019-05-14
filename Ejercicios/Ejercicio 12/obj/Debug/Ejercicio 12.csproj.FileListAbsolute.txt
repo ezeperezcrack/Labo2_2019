@@ -1,0 +1,14 @@
+C:\Users\cschl\Desktop\Schlieter\Ejercicios\Ejercicio 12\bin\Debug\Ejercicio 12.exe.config
+C:\Users\cschl\Desktop\Schlieter\Ejercicios\Ejercicio 12\bin\Debug\Ejercicio 12.exe
+C:\Users\cschl\Desktop\Schlieter\Ejercicios\Ejercicio 12\bin\Debug\Ejercicio 12.pdb
+C:\Users\cschl\Desktop\Schlieter\Ejercicios\Ejercicio 12\obj\Debug\Ejercicio 12.csprojAssemblyReference.cache
+C:\Users\cschl\Desktop\Schlieter\Ejercicios\Ejercicio 12\obj\Debug\Ejercicio 12.csproj.CoreCompileInputs.cache
+C:\Users\cschl\Desktop\Schlieter\Ejercicios\Ejercicio 12\obj\Debug\Ejercicio 12.exe
+C:\Users\cschl\Desktop\Schlieter\Ejercicios\Ejercicio 12\obj\Debug\Ejercicio 12.pdb
+E:\Schlieter\Ejercicios\Ejercicio 12\bin\Debug\Ejercicio 12.exe.config
+E:\Schlieter\Ejercicios\Ejercicio 12\bin\Debug\Ejercicio 12.exe
+E:\Schlieter\Ejercicios\Ejercicio 12\bin\Debug\Ejercicio 12.pdb
+E:\Schlieter\Ejercicios\Ejercicio 12\obj\Debug\Ejercicio 12.csprojAssemblyReference.cache
+E:\Schlieter\Ejercicios\Ejercicio 12\obj\Debug\Ejercicio 12.csproj.CoreCompileInputs.cache
+E:\Schlieter\Ejercicios\Ejercicio 12\obj\Debug\Ejercicio 12.exe
+E:\Schlieter\Ejercicios\Ejercicio 12\obj\Debug\Ejercicio 12.pdb

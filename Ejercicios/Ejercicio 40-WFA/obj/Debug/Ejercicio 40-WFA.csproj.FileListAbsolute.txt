@@ -1,0 +1,30 @@
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 40-WFA\obj\Debug\Ejercicio 40-WFA.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 40-WFA\obj\Debug\Ejercicio_40_WFA.Properties.Resources.resources
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 40-WFA\obj\Debug\Ejercicio 40-WFA.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 40-WFA\obj\Debug\Ejercicio 40-WFA.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 40-WFA\bin\Debug\Ejercicio 40-WFA.exe.config
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 40-WFA\bin\Debug\Ejercicio 40-WFA.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 40-WFA\bin\Debug\Ejercicio 40-WFA.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 40-WFA\bin\Debug\Ejercicio 40.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 40-WFA\bin\Debug\Ejercicio 40.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 40-WFA\bin\Debug\Ejercicio 40.exe.config
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 40-WFA\obj\Debug\Ejercicio 40-WFA.csproj.CopyComplete
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 40-WFA\obj\Debug\Ejercicio 40-WFA.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 40-WFA\obj\Debug\Ejercicio 40-WFA.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 40-WFA\obj\Debug\Ejercicio_40_WFA.frmCentralTelefonica.resources
+C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 40-WFA\obj\Debug\Ejercicio_40_WFA.frmLlamador.resources
+C:\Users\cschl\Desktop\Lab2\Lab2-2019\Ejercicios\Ejercicio 40-WFA\bin\Debug\Ejercicio 40-WFA.exe.config
+C:\Users\cschl\Desktop\Lab2\Lab2-2019\Ejercicios\Ejercicio 40-WFA\bin\Debug\Ejercicio 40-WFA.exe
+C:\Users\cschl\Desktop\Lab2\Lab2-2019\Ejercicios\Ejercicio 40-WFA\bin\Debug\Ejercicio 40-WFA.pdb
+C:\Users\cschl\Desktop\Lab2\Lab2-2019\Ejercicios\Ejercicio 40-WFA\bin\Debug\Ejercicio 40.exe
+C:\Users\cschl\Desktop\Lab2\Lab2-2019\Ejercicios\Ejercicio 40-WFA\bin\Debug\Ejercicio 40.pdb
+C:\Users\cschl\Desktop\Lab2\Lab2-2019\Ejercicios\Ejercicio 40-WFA\bin\Debug\Ejercicio 40.exe.config
+C:\Users\cschl\Desktop\Lab2\Lab2-2019\Ejercicios\Ejercicio 40-WFA\obj\Debug\Ejercicio 40-WFA.csprojAssemblyReference.cache
+C:\Users\cschl\Desktop\Lab2\Lab2-2019\Ejercicios\Ejercicio 40-WFA\obj\Debug\Ejercicio_40_WFA.frmCentralTelefonica.resources
+C:\Users\cschl\Desktop\Lab2\Lab2-2019\Ejercicios\Ejercicio 40-WFA\obj\Debug\Ejercicio_40_WFA.frmLlamador.resources
+C:\Users\cschl\Desktop\Lab2\Lab2-2019\Ejercicios\Ejercicio 40-WFA\obj\Debug\Ejercicio_40_WFA.Properties.Resources.resources
+C:\Users\cschl\Desktop\Lab2\Lab2-2019\Ejercicios\Ejercicio 40-WFA\obj\Debug\Ejercicio 40-WFA.csproj.GenerateResource.cache
+C:\Users\cschl\Desktop\Lab2\Lab2-2019\Ejercicios\Ejercicio 40-WFA\obj\Debug\Ejercicio 40-WFA.csproj.CoreCompileInputs.cache
+C:\Users\cschl\Desktop\Lab2\Lab2-2019\Ejercicios\Ejercicio 40-WFA\obj\Debug\Ejercicio 40-WFA.csproj.CopyComplete
+C:\Users\cschl\Desktop\Lab2\Lab2-2019\Ejercicios\Ejercicio 40-WFA\obj\Debug\Ejercicio 40-WFA.exe
+C:\Users\cschl\Desktop\Lab2\Lab2-2019\Ejercicios\Ejercicio 40-WFA\obj\Debug\Ejercicio 40-WFA.pdb

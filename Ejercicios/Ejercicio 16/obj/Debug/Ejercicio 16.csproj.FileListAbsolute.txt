@@ -1,0 +1,7 @@
+E:\Schlieter\Ejercicios\Ejercicio 16\bin\Debug\Ejercicio 16.exe.config
+E:\Schlieter\Ejercicios\Ejercicio 16\bin\Debug\Ejercicio 16.exe
+E:\Schlieter\Ejercicios\Ejercicio 16\bin\Debug\Ejercicio 16.pdb
+E:\Schlieter\Ejercicios\Ejercicio 16\obj\Debug\Ejercicio 16.csprojAssemblyReference.cache
+E:\Schlieter\Ejercicios\Ejercicio 16\obj\Debug\Ejercicio 16.csproj.CoreCompileInputs.cache
+E:\Schlieter\Ejercicios\Ejercicio 16\obj\Debug\Ejercicio 16.exe
+E:\Schlieter\Ejercicios\Ejercicio 16\obj\Debug\Ejercicio 16.pdb

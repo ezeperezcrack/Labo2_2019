@@ -1,0 +1,7 @@
+C:\Users\cschl\Desktop\C#\Lab2-2019\Ejercicios\Ejercicio 17\bin\Debug\Ejercicio 17.exe.config
+C:\Users\cschl\Desktop\C#\Lab2-2019\Ejercicios\Ejercicio 17\bin\Debug\Ejercicio 17.exe
+C:\Users\cschl\Desktop\C#\Lab2-2019\Ejercicios\Ejercicio 17\bin\Debug\Ejercicio 17.pdb
+C:\Users\cschl\Desktop\C#\Lab2-2019\Ejercicios\Ejercicio 17\obj\Debug\Ejercicio 17.csprojAssemblyReference.cache
+C:\Users\cschl\Desktop\C#\Lab2-2019\Ejercicios\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.CoreCompileInputs.cache
+C:\Users\cschl\Desktop\C#\Lab2-2019\Ejercicios\Ejercicio 17\obj\Debug\Ejercicio 17.exe
+C:\Users\cschl\Desktop\C#\Lab2-2019\Ejercicios\Ejercicio 17\obj\Debug\Ejercicio 17.pdb

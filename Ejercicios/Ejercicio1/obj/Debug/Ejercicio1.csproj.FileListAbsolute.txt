@@ -1,0 +1,14 @@
+D:\VisualStudio\Ejercicios\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+D:\VisualStudio\Ejercicios\Ejercicio1\bin\Debug\Ejercicio1.exe
+D:\VisualStudio\Ejercicios\Ejercicio1\bin\Debug\Ejercicio1.pdb
+D:\VisualStudio\Ejercicios\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+D:\VisualStudio\Ejercicios\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ejercicios\Ejercicio1\obj\Debug\Ejercicio1.exe
+D:\VisualStudio\Ejercicios\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\cschl\Desktop\Schlieter\Ejercicios\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\cschl\Desktop\Schlieter\Ejercicios\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\cschl\Desktop\Schlieter\Ejercicios\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\cschl\Desktop\Schlieter\Ejercicios\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\cschl\Desktop\Schlieter\Ejercicios\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\cschl\Desktop\Schlieter\Ejercicios\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\cschl\Desktop\Schlieter\Ejercicios\Ejercicio1\obj\Debug\Ejercicio1.pdb
