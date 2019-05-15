@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\Nueva carpeta\Labo2_2019\Ejercicios\Ejercicio 41\bin\Debug\Ejercicio 41.dll
+C:\Users\alumno\Desktop\Nueva carpeta\Labo2_2019\Ejercicios\Ejercicio 41\bin\Debug\Ejercicio 41.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Labo2_2019\Ejercicios\Ejercicio 41\obj\Debug\Ejercicio 41.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Nueva carpeta\Labo2_2019\Ejercicios\Ejercicio 41\obj\Debug\Ejercicio 41.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Nueva carpeta\Labo2_2019\Ejercicios\Ejercicio 41\obj\Debug\Ejercicio 41.dll
+C:\Users\alumno\Desktop\Nueva carpeta\Labo2_2019\Ejercicios\Ejercicio 41\obj\Debug\Ejercicio 41.pdb

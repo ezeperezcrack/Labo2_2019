@@ -12,3 +12,13 @@ C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 40\obj\Debu
 C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 40\bin\Debug\Ejercicio 40.exe.config
 C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 40\bin\Debug\Ejercicio 40.exe
 C:\Users\alumno\Desktop\Nueva carpeta\Lab2-2019\Ejercicios\Ejercicio 40\bin\Debug\Ejercicio 40.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Labo2_2019\Ejercicios\Ejercicio 40\bin\Debug\Ejercicio 40.exe.config
+C:\Users\alumno\Desktop\Nueva carpeta\Labo2_2019\Ejercicios\Ejercicio 40\bin\Debug\Ejercicio 40.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Labo2_2019\Ejercicios\Ejercicio 40\bin\Debug\Ejercicio 40.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Labo2_2019\Ejercicios\Ejercicio 40\bin\Debug\Ejercicio 41.dll
+C:\Users\alumno\Desktop\Nueva carpeta\Labo2_2019\Ejercicios\Ejercicio 40\bin\Debug\Ejercicio 41.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Labo2_2019\Ejercicios\Ejercicio 40\obj\Debug\Ejercicio 40.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Nueva carpeta\Labo2_2019\Ejercicios\Ejercicio 40\obj\Debug\Ejercicio 40.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Nueva carpeta\Labo2_2019\Ejercicios\Ejercicio 40\obj\Debug\Ejercicio 40.csproj.CopyComplete
+C:\Users\alumno\Desktop\Nueva carpeta\Labo2_2019\Ejercicios\Ejercicio 40\obj\Debug\Ejercicio 40.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Labo2_2019\Ejercicios\Ejercicio 40\obj\Debug\Ejercicio 40.pdb

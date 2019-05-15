@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Ejercicio_41;
 
 namespace Ejercicio_40
 {
@@ -98,10 +99,19 @@ namespace Ejercicio_40
 
         public static Centralita operator +(Centralita c, Llamada nuevaLlamada)
         {
-            if (c != nuevaLlamada)
-            {
-                c.AgregarLlamada(nuevaLlamada);
-            }
+      try {
+        if (c != nuevaLlamada)
+        {
+          c.AgregarLlamada(nuevaLlamada);
+        }
+        else
+        { throw new CentralitaException("La llamada ya se encuentra registrada en el sistema", "Centralita", "+") ; }
+      }
+      catch(CentralitaException e)
+      {
+        Console.WriteLine(e.Message);
+      }
+            
             return c;
         }
 
